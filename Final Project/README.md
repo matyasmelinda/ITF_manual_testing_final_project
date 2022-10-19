@@ -154,4 +154,20 @@ The following bugs were found and created:
 *	The calendar for Driver License expiry date lists dates just until 2022
 *	Cancel button is missing
 
-The complete bug reports can be found here:
+The complete bug reports can be found here:[Personal_detail_created_bugs](https://github.com/matyasmelinda/manual_testing_portofolio/blob/7edaa191d5b40a45c979402f252565534c562372/Final%20Project/Personal_detalis_created_bugs.pdf)
+
+Complete regression testing is performed after bugs are fixed.
+
+## 1.7.	Test Completion
+
+Testing phase is complete, all exit criteria have been met. The product is enough stable. All pending bugs will be fixed later.
+
+*	89 test cases were planned for execution and all of them were executed
+*	85 test cases have passed and 4 have failed
+*	95.51% of test cases have passed and 4.49% of test cases have failed
+*	5 bugs were found, from which 4 with medium priority and 1 with high priority
+
+The following execution chart was generated:
+
+
+
