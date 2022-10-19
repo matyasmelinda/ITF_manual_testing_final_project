@@ -142,7 +142,7 @@ All the pre-requisites are handled to start the test execution:
 
 ## 1.6.	Test Execution
 
-Test cases were executed on the created cycle summary:
+Test cases were executed on the created cycle summary: [Personal_details_cycle_summary_execution](https://github.com/matyasmelinda/manual_testing_portofolio/blob/e4e9c2a1c6557a6645ada9d91b44f93980c91aea/Final%20Project/Personal_details_cycle_summary_execution.pdf)
 
 The tests that failed were reported in form of bugs.
 
