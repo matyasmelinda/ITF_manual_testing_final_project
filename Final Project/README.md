@@ -88,5 +88,21 @@ QA Engineer – Matyas Melinda
 *	All critical and high priority bugs have been fixed and closed
 *	Deadline has been reached
 
+### 1.1.6.	Test scope
+
+All the feature of Personal Details module defined in specific requirements needs to be tested: Functional testing, GUI and API testing.
+
+Non-functional testing like stress and performance testing are not in scope.
+
+### 1.1.7.	Risks detected
+
+Project risks: testing environment is unavailable, short time frame available for testing, lack of communication with team members.
+
+Product risks: lack of dismissive button (cancel/reset), which prevents unwanted changes to the system.
+
+## 1.2.	Test monitoring and control
+
+Different monitoring reports were generated in order to track current progress of testing activity and to take corrective actions if needed.  The following reports were generated on 15th of September 2022.
+
 
 
