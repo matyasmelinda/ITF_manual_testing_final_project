@@ -110,4 +110,21 @@ Different monitoring reports were generated in order to track current progress o
 
 ![image](https://user-images.githubusercontent.com/115132374/196655216-3d8e4354-47b3-4880-a99f-abab33fea410.png)
 
+## 1.3.	Test Analysis
+
+Based on the requirements of Personal Details Module the following test conditions were identified:
+
+*	Complete only required fields and verify that the personal details are saved/updated
+*	Complete all fields and verify that the personal details are saved/updated
+*	Leave required fields empty and verify that personal details cannot be saved/updated
+*	Edit editable fields and validate that the fields are edited/saved/updated
+*	Edit editable fields and check that changes can be canceled/reset 
+*	Upload supported file/files and verify that attachment/attachments are saved
+*	Upload supported file/files and check that these can be modified and deleted
+
+## 1.4.	 Test design
+
+The following test cases were derived from test conditions and were created in Zephyr Squad. Test design techniques used for determining test cases were boundary analysis, equivalence partitioning and use case testing.
+
+
 
