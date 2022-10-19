@@ -126,5 +126,8 @@ Based on the requirements of Personal Details Module the following test conditio
 
 The following test cases were derived from test conditions and were created in Zephyr Squad. Test design techniques used for determining test cases were boundary analysis, equivalence partitioning and use case testing.
 
-
+![image](https://user-images.githubusercontent.com/115132374/196659814-ddf0e322-daf4-44f3-b6b7-379d9772096a.png)
+![image](https://user-images.githubusercontent.com/115132374/196659846-c8703da2-c212-48e5-b46a-cbe48543e6e0.png)
+![image](https://user-images.githubusercontent.com/115132374/196659878-0bd01832-b3f1-4f4f-8328-33d8652e96ed.png)
+![image](https://user-images.githubusercontent.com/115132374/196659926-07851cf4-d9ae-40ef-a544-3e6197249c5c.png)
 
