@@ -142,7 +142,7 @@ All the pre-requisites are handled to start the test execution:
 
 ## 1.6.	Test Execution
 
-Test cases were executed on the created cycle summary: [Personal_details_cycle_summary_execution](https://github.com/matyasmelinda/manual_testing_portofolio/blob/e4e9c2a1c6557a6645ada9d91b44f93980c91aea/Final%20Project/Personal_details_cycle_summary_execution.pdf)
+Test cases were executed on the created cycle summary: [Personal_details_cycle_summary_execution.pdf](https://github.com/matyasmelinda/manual_testing_portofolio/blob/e4e9c2a1c6557a6645ada9d91b44f93980c91aea/Final%20Project/Personal_details_cycle_summary_execution.pdf)
 
 The tests that failed were reported in form of bugs.
 
@@ -154,7 +154,7 @@ The following bugs were found and created:
 *	The calendar for Driver License expiry date lists dates just until 2022
 *	Cancel button is missing
 
-The complete bug reports can be found here:[Personal_detail_created_bugs](https://github.com/matyasmelinda/manual_testing_portofolio/blob/7edaa191d5b40a45c979402f252565534c562372/Final%20Project/Personal_detalis_created_bugs.pdf)
+The complete bug reports can be found here:[Personal_detail_created_bugs.pdf](https://github.com/matyasmelinda/manual_testing_portofolio/blob/7edaa191d5b40a45c979402f252565534c562372/Final%20Project/Personal_detalis_created_bugs.pdf)
 
 Complete regression testing is performed after bugs are fixed.
 
@@ -167,7 +167,7 @@ Testing phase is complete, all exit criteria have been met. The product is enoug
 *	95.51% of test cases have passed and 4.49% of test cases have failed
 *	5 bugs were found, from which 4 with medium priority and 1 with high priority
 
-The traceability matrix was generated and can be found here: [Traceability matrix](https://github.com/matyasmelinda/manual_testing_portofolio/blob/ee8ac80c2faa53b31c49aba449f2b553967a48af/Final%20Project/Traceability%20matrix.xlsx)
+The traceability matrix was generated and can be found here: [Traceability matrix.csv](https://github.com/matyasmelinda/manual_testing_portofolio/blob/ee8ac80c2faa53b31c49aba449f2b553967a48af/Final%20Project/Traceability%20matrix.xlsx)
 
 The following execution chart was generated:
 
