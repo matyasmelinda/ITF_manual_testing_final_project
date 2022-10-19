@@ -104,5 +104,6 @@ Product risks: lack of dismissive button (cancel/reset), which prevents unwanted
 
 Different monitoring reports were generated in order to track current progress of testing activity and to take corrective actions if needed.  The following reports were generated on 15th of September 2022.
 
+https://user-images.githubusercontent.com/115132374/196655128-2c1a4f24-f6ac-4146-9a23-6025db32a0da.png
 
 
