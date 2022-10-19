@@ -169,5 +169,9 @@ Testing phase is complete, all exit criteria have been met. The product is enoug
 
 The following execution chart was generated:
 
+![image](https://user-images.githubusercontent.com/115132374/196660022-9758244f-22d3-4192-b92c-728a453638c9.png)
 
+The traceability matrix was generated and can be found here: 
+
+# 2. SQL Section
 
