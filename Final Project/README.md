@@ -167,11 +167,11 @@ Testing phase is complete, all exit criteria have been met. The product is enoug
 *	95.51% of test cases have passed and 4.49% of test cases have failed
 *	5 bugs were found, from which 4 with medium priority and 1 with high priority
 
+The traceability matrix was generated and can be found here: [Traceability matrix](https://github.com/matyasmelinda/manual_testing_portofolio/blob/ee8ac80c2faa53b31c49aba449f2b553967a48af/Final%20Project/Traceability%20matrix.xlsx)
+
 The following execution chart was generated:
 
 ![image](https://user-images.githubusercontent.com/115132374/196660022-9758244f-22d3-4192-b92c-728a453638c9.png)
-
-The traceability matrix was generated and can be found here: 
 
 # 2. SQL Section
 
