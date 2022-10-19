@@ -19,7 +19,7 @@ This project is performed upon the Personal Details module. The Personal Details
 
 The project will be split into 2 sections:  testing section and SQL section.
 
-Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
+Tools used: JIRA, Zephyr Squad, MySQL Workbench.
 
 # 1.	Testing Section
 
@@ -131,3 +131,4 @@ The following test cases were derived from test conditions and were created in Z
 ![image](https://user-images.githubusercontent.com/115132374/196659878-0bd01832-b3f1-4f4f-8328-33d8652e96ed.png)
 ![image](https://user-images.githubusercontent.com/115132374/196659926-07851cf4-d9ae-40ef-a544-3e6197249c5c.png)
 
+The detailed test cases with steps can be viewed here:
