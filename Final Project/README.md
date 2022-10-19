@@ -11,8 +11,6 @@ OrangeHRM is a comprehensive Human Resource Management (HRM) System that capture
 Module Documentation:
 https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf
 
-API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
-
 # Project Overview
 
 This project is performed upon the Personal Details module. The Personal Details module contains all of an employee's personal information and data. This is an incredibly important page as the data contained in this page is used for other key modules throughout the OrangeHRM system. It is crucial that this page is filled in completely and accurately as possible.
@@ -90,7 +88,7 @@ QA Engineer – Matyas Melinda
 
 ### 1.1.6.	Test scope
 
-All the feature of Personal Details module defined in specific requirements needs to be tested: Functional testing, GUI and API testing.
+All the feature of Personal Details module defined in specific requirements needs to be tested: Functional testing, GUI testing.
 
 Non-functional testing like stress and performance testing are not in scope.
 
@@ -131,6 +129,29 @@ The following test cases were derived from test conditions and were created in Z
 ![image](https://user-images.githubusercontent.com/115132374/196659878-0bd01832-b3f1-4f4f-8328-33d8652e96ed.png)
 ![image](https://user-images.githubusercontent.com/115132374/196659926-07851cf4-d9ae-40ef-a544-3e6197249c5c.png)
 
-The detailed test cases with steps can be viewed here:[Personal_details_test-cases.pdf]
+The detailed test cases with steps can be viewed here: [Personal_details_test-cases.pdf](https://github.com/matyasmelinda/manual_testing_portofolio/blob/main/Final%20Project/Personal_details_test-cases.pdf)
 
-(https://github.com/matyasmelinda/manual_testing_portofolio/blob/main/Final%20Project/Personal_details_test-cases.pdf)
+## 1.5.	Test implementation
+
+All the pre-requisites are handled to start the test execution:
+
+*	Demo environment is functional: https://opensource-demo.orangehrmlive.com/
+*	Login details are given: Username : Admin, Password : admin123
+*	Cycle summary is created in Zephyr Squad
+*	Test cases are added to the cycle summary
+
+## 1.6.	Test Execution
+
+Test cases were executed on the created cycle summary:
+
+The tests that failed were reported in form of bugs.
+
+The following bugs were found and created:
+
+*	“Today” at date of birth is clickable
+*	The calendar for date of birth lists future dates
+*	The calendar for Date of Birth lists dates only 52 years backward
+*	The calendar for Driver License expiry date lists dates just until 2022
+*	Cancel button is missing
+
+The complete bug reports can be found here:
