@@ -42,6 +42,7 @@ The personal details of an employee can be added, edited and deleted in this sec
 You can enter personal information by clicking on “edit”.
 
 You can edit the following:
+
 *	last name - mandatory - input that accepts 30 characters length maximum
 *	middle name - input that accepts 30 characters length maximum
 *	first name - mandatory - input that accepts 30 characters length maximum
@@ -62,6 +63,30 @@ You can edit the following:
 Once you have completed click ‘'Save”.
 
 You can also add blood type from a drop - down menu and add/edit/delete attachments.
+
+### 1.1.3.	Roles and persons allocated
+
+Project Manager – Ioana Barsan
+
+Product Owner – Mihai Turcu
+
+Software Developer – Vlad Oancea
+
+QA Engineer – Matyas Melinda
+
+### 1.1.4.	Entry criteria
+
+*	Planning phase has been completed
+*	Functional specifications are defined and approved
+*	Test cases are developed and ready
+*	System testing phase has been successful completed
+
+### 1.1.5.	Exit criteria
+
+*	All tests have been executed
+*	All critical test cases are passed
+*	All critical and high priority bugs have been fixed and closed
+*	Deadline has been reached
 
 
 
