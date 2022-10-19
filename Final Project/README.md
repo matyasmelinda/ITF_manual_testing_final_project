@@ -133,4 +133,4 @@ The following test cases were derived from test conditions and were created in Z
 
 The detailed test cases with steps can be viewed here:
 
-https://github.com/matyasmelinda/manual_testing_portofolio/blob/2e98e05db2be716d8e71f7326916f0fc566506d3/Final%20Project/Personal_details_test-cases.pdf
+https://github.com/matyasmelinda/manual_testing_portofolio/blob/main/Final%20Project/Personal_details_test-cases.pdf
