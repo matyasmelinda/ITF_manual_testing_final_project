@@ -175,4 +175,4 @@ The following execution chart was generated:
 
 # 2. SQL Section
 
-In MySQL was created a database named 'orangeHrm' and a table named 'personalDetails'. The table contains column 'employeeID', 'firstName', 'lastName', 'nationality', 'maritalStatus', 'dateOfBirth', 'gender'. Different queries were performed inside this sql file: 
+In MySQL was created a database named 'orangeHrm' and a table named 'personalDetails'. The table contains column 'employeeID', 'firstName', 'lastName', 'nationality', 'maritalStatus', 'dateOfBirth', 'gender'. Different queries were performed inside this sql file: [personalDetails.sql](https://github.com/matyasmelinda/manual_testing_portofolio/blob/36e12848d61df20a0338532948b07ee937d93c71/Final%20Project/PersonalDetails.sql)
