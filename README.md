@@ -39,3 +39,4 @@ All these skills were gained from experience by testing web applications created
 
 ### Final Project for ITF Manual Testing course
 
+The complete project can be found here: 
