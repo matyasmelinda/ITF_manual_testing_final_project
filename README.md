@@ -8,6 +8,11 @@ My name is Matyas Melinda. I decided to become a Sofware Tester, so I finished a
 
 ### Testing
 
+* creating test cases and executing them in a test management tool
+* creating bug reports 
+* applying test design techniques (boundary analysis, equivalence partitioning and use case testing)
+* performing web functional testing
+
 ### API
 
 ### SQL
