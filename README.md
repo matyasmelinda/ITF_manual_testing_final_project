@@ -39,6 +39,6 @@ All these skills were gained from experience by testing web applications created
 
 ### Final Project for ITF Manual Testing course
 
-The purpose of this final project was choosing a module from a web application and testing this based on business requirements.
+The purpose of this final project was choosing a module from a web application and testing this according to the business requirements.
 
 The complete project can be found here: [Final Project](https://github.com/matyasmelinda/manual_testing_portofolio/tree/main/Final%20Project)
