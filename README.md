@@ -6,7 +6,7 @@ My name is Matyas Melinda. I decided to become a Sofware Tester, so I finished a
 
 ## Skills
 
-All these skills were gained from experience by testing web applications created for educational purposes
+All these skills were gained from experience by testing web applications created for educational purposes.
 
 ### Testing
 
@@ -17,7 +17,8 @@ All these skills were gained from experience by testing web applications created
 
 ### API
 
-* using POST, PUT, GET, DELETE methods
+* sending requests using POST, PUT, GET, DELETE methods
+* reading API documentation
 * 
 ### SQL
 
