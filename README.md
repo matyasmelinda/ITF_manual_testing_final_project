@@ -24,6 +24,10 @@ All these skills were gained from experience by testing web applications created
 
 ### SQL
 
+* familiarity with SQL commands
+* knowing how to use Joins
+* writing simple SQL queries
+
 
 ## Tools
 * JiRA
