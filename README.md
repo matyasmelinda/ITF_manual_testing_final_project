@@ -19,7 +19,9 @@ All these skills were gained from experience by testing web applications created
 
 * sending requests using POST, PUT, GET, DELETE methods
 * reading API documentation
-* 
+* manipulating JSON objects
+* using variables and environments in Postman requests
+
 ### SQL
 
 
