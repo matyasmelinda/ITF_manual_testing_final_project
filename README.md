@@ -6,6 +6,8 @@ My name is Matyas Melinda. I decided to become a Sofware Tester, so I finished a
 
 ## Skills
 
+All these skills were gained from experience by testing web applications created for educational purposes
+
 ### Testing
 
 * creating test cases and executing them in a test management tool
