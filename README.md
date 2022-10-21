@@ -15,6 +15,8 @@ My name is Matyas Melinda. I decided to become a Sofware Tester, so I finished a
 
 ### API
 
+* using POST, PUT, GET, DELETE methods
+* 
 ### SQL
 
 
