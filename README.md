@@ -39,4 +39,6 @@ All these skills were gained from experience by testing web applications created
 
 ### Final Project for ITF Manual Testing course
 
-The complete project can be found here: 
+This final project 
+
+The complete project can be found here: [Final Project](https://github.com/matyasmelinda/manual_testing_portofolio/tree/main/Final%20Project)
