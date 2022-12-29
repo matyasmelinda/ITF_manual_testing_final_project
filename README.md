@@ -2,27 +2,31 @@
 
 ## About me
 
-My name is Matyas Melinda. I decided to become a Sofware Tester, so I finished a sofware tester course recently. I would like to share my all gained knowledge from this course and from my personal researches.
+I am an organized person, motivated, with good communication skills, eager to learn new things and constantly developing new skills and abilities. 
+
+I decided to become a Sofware Tester, so I finished a sofware tester course recently. 
+
+I would like to share my all gained knowledge from this course and from my personal researches.
 
 ## Skills
 
 All these skills were gained from experience by testing web applications created for educational purposes.
 
-### Testing
+### Manual Testing
 
 * creating test cases and executing them in a test management tool
 * creating bug reports 
 * applying test design techniques (boundary analysis, equivalence partitioning and use case testing)
 * performing web functional testing 
 
-### API
+### API Testing
 
 * sending requests using POST, PUT, GET, DELETE methods
 * reading API documentation
 * manipulating JSON objects
 * using variables and environments in Postman requests
 
-### SQL
+### SQL databases
 
 * familiarity with SQL commands
 * knowing how to use Joins
