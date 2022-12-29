@@ -45,7 +45,7 @@ The main objectives of the course are to understand and learn the fundamental te
 
 Main studied things: Introduction To Testing, Test Design Techniques (static testing +dynamic testing), Risk Based Testing, Working with Jira and Zephyr, Testing Practice, Basics of MySQL, API Testing/Postman
 
-Link to the certficate (https://github.com/matyasmelinda/images-in-readme/blob/7993dac0d16b2f8ea11282c74005cab605f540b5/M%C3%A1ty%C3%A1s%20Melinda%20-%20Testare%20Manuala%20Diploma%20IT%20Factory%20(1).pdf)
+Link to the certficate: *[Certificate](https://github.com/matyasmelinda/images-in-readme/blob/7993dac0d16b2f8ea11282c74005cab605f540b5/M%C3%A1ty%C3%A1s%20Melinda%20-%20Testare%20Manuala%20Diploma%20IT%20Factory%20(1).pdf)
 
 ## My works
 
