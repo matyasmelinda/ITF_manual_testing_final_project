@@ -37,7 +37,7 @@ All these skills were gained from experience by testing web applications created
 
 ## Courses
 
-### Manual Software Tester
+### Manual Software Testing
 
 IT Factory, April 2022 - July 2022
 
