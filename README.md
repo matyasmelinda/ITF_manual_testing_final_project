@@ -36,9 +36,15 @@ All these skills were gained from experience by testing web applications created
 * Postman
 
 ## Courses
-Manual Software Tester
+
+### Manual Software Tester
+
 IT Factory, April 2022 - July 2022
-The main objectives of the course are to understand and learn the fundamental testing concepts and to apply them in practice. Main studied things: Introduction To Testing, Test Design Techniques (static testing +dynamic testing), Risk Based Testing, Working with Jira and Zephyr, Testing Practice, Basics of MySQL, API Testing/Postman
+
+The main objectives of the course are to understand and learn the fundamental testing concepts and to apply them in practice.
+
+Main studied things: Introduction To Testing, Test Design Techniques (static testing +dynamic testing), Risk Based Testing, Working with Jira and Zephyr, Testing Practice, Basics of MySQL, API Testing/Postman
+
 Link to the certficate 
 
 ## My works
