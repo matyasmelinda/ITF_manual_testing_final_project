@@ -51,6 +51,10 @@ Main studied things: Introduction To Testing, Test Design Techniques (static tes
 
 Link to the certficate: [Certificate of graduation](https://github.com/matyasmelinda/images-in-readme/blob/7993dac0d16b2f8ea11282c74005cab605f540b5/M%C3%A1ty%C3%A1s%20Melinda%20-%20Testare%20Manuala%20Diploma%20IT%20Factory%20(1).pdf)
 
+### First Steps in Programming - Practical Comparison between Java and Phyton
+
+It is a registered course, which covers important concepts through a comparison between the two programming languages (variables and data types, operators and control flow statements, data structures, loops, functions, object oriented programming.
+
 ## My works
 
 ### Final Project for ITF Manual Testing course
