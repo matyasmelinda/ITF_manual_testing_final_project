@@ -32,12 +32,16 @@ All these skills were gained from experience by testing web applications created
 * knowing how to use Joins
 * writing simple SQL queries
 
+### Java and Phyton
+* basic concepts (create classes, use: add, remove, insert, extend, pop, etc.)
 
 ## Tools
 * JiRA
 * Zephyr Squad
 * MySQL Workbench
 * Postman
+* IntelliJ IDEA
+* PyCharm
 
 ## Courses
 
