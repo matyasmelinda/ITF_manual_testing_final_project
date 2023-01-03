@@ -33,7 +33,7 @@ All these skills were gained from experience by testing web applications created
 * writing simple SQL queries
 
 ### Java and Phyton
-* basic concepts (create classes, use: add, remove, insert, extend, pop, etc.)
+* basic concepts (create simple program, use: add, remove, insert, extend, pop, etc.)
 
 ## Tools
 * JiRA
