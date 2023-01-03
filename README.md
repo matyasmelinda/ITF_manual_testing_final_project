@@ -57,7 +57,7 @@ Link to the certficate: [Certificate of graduation](https://github.com/matyasmel
 
 ### First Steps in Programming - Practical Comparison between Java and Phyton
 
-It is a registered course, which covers important concepts through a comparison between the two programming languages (variables and data types, operators and control flow statements, data structures, loops, functions, object oriented programming.
+It is a registered course, which covers important concepts through a comparison between the two programming languages Java and Phyton (variables and data types, operators and control flow statements, data structures, loops, functions, object oriented programming.
 
 ## My works
 
