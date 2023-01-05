@@ -94,7 +94,7 @@ Non-functional testing like stress and performance testing are not in scope.
 
 ### 1.1.7.	Risks detected
 
-Project risks: testing environment is unavailable, short time frame available for testing, lack of communication with team members.
+Project risks: short time frame available for testing, lack of communication with team members.
 
 Product risks: lack of dismissive button (cancel/reset), which prevents unwanted changes to the system.
 
